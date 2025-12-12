@@ -1,5 +1,7 @@
 # Day 4: Introduction to NumPy — Arrays, Indexing, Slicing, and Shape
 
+need to remember : boolean masking , fancy index , reshaping and manipulating 
+flattening of array and its type 
 ## Introduction
 
 **NumPy** (Numerical Python) is a fundamental library for scientific computing in Python. It provides powerful tools for working with arrays and performing mathematical operations efficiently.
