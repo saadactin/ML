@@ -2,6 +2,12 @@
 
 need to remember : boolean masking , fancy index , reshaping and manipulating 
 flattening of array and its type 
+
+functions for missing values 
+
+np.isnan()  to detect if there are missing values 
+np.inf()
+np.nan_to_num()
 ## Introduction
 
 **NumPy** (Numerical Python) is a fundamental library for scientific computing in Python. It provides powerful tools for working with arrays and performing mathematical operations efficiently.
