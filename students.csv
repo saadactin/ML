@@ -1,0 +1,13 @@
+id,name,age,grade,math,science,english,attendance_pct,passed,enrolled_date
+1,Aisha Khan,19,A,92,98,85,96,True,2024-08-21
+2,Arjun Mehta,20,B,78,81,74,89,True,2024-08-21
+3,Neha Sharma,18,A,95,93,90,98,True,2024-08-22
+4,Rohan Patel,21,C,68,72,70,82,False,2024-08-22
+5,Farhan Ali,22,B,84,79,80,91,True,2024-08-23
+6,Sara Siddiqui,19,A,90,94,92,97,True,2024-08-23
+7,Vikram Rao,20,D,55,60,58,75,False,2024-08-24
+8,Priya Iyer,18,B,82,86,88,95,True,2024-08-24
+9,Kabir Das,21,C,71,69,73,84,True,2024-08-25
+10,Meera Joshi,19,B,87,85,83,92,True,2024-08-25
+11,Ananya Roy,20,A,94,96,91,99,True,2024-08-26
+12,Dev Singh,22,C,70,65,68,80,False,2024-08-26

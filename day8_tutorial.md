@@ -1,5 +1,19 @@
 # Day 8: Introduction to Pandas — Series, DataFrames, and Reading CSV Files
 
+
+
+
+data manipulation , analysis , find insights
+build on numpy  
+
+
+
+
+
+
+
+
+
 ## Introduction
 
 **Pandas** is a powerful library for working with data in Python. Think of it as Excel for Python!
